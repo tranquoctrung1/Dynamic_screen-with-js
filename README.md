@@ -10,10 +10,6 @@
 		  \__/                                                                          /$$  \ $$
 																					   |  $$$$$$/
 																						\______/ 
-
-
-
-
 ## Designer: Quốc Trung
 
 #### Dùng lệnh static-server để chạy file index.html
