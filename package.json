@@ -1,0 +1,20 @@
+{
+  "name": "Dynamic_screen-with-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranquoctrung1/Dynamic_screen-with-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranquoctrung1/Dynamic_screen-with-js/issues"
+  },
+  "homepage": "https://github.com/tranquoctrung1/Dynamic_screen-with-js#readme"
+}
